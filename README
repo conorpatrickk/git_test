@@ -1,0 +1,11 @@
+this repository was created by josh and conor. 
+
+git init  #initialize a repository
+
+git remote add origin (copy the url)  #connects local to cloud
+
+go to gitignore.io and type in all of the programs you are using (linux, python,vim, etc) to automatically create a gitignore file. 
+
+git status #lists current changes
+
+git add.<file>  #tracks the gitignore file
