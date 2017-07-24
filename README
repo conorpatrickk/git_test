@@ -9,3 +9,7 @@ go to gitignore.io and type in all of the programs you are using (linux, python,
 git status #lists current changes
 
 git add.<file>  #tracks the gitignore file
+
+git commit -m "<custom message associated with command>"
+        #Commits changes and prepares to push
+
